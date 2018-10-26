@@ -1,6 +1,6 @@
 #!/bin/bash
 git init \
-&& git config user.name {{cookiecutter.author_name}} \
+&& git config user.name "{{cookiecutter.author_name}}" \
 && git config user.email {{cookiecutter.author_email}} \
 && git add . \
 && git commit -m "Initial setup" \
