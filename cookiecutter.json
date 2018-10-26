@@ -1,0 +1,7 @@
+{
+    "project_name": "myproject",
+    "license": ["MIT", "GPLv3"],
+    "author_name": "John Doe",
+    "author_email": "john.doe@example.com",
+    "github_user": "john"
+}
