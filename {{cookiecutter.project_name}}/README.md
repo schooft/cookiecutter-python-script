@@ -1,6 +1,6 @@
 # {{cookiecutter.project_name}}
 
-[![Build Status](https://travis-ci.org/{{cookiecutter.github_user}}/{{cookiecutter.project_name}}.svg?branch=master)](https://travis-ci.org/{{cookiecutter.github_user}}/{{cookiecutter.project_name}})
+[![Build Status](https://travis-ci.com/{{cookiecutter.github_user}}/{{cookiecutter.project_name}}.svg?branch=master)](https://travis-ci.com/{{cookiecutter.github_user}}/{{cookiecutter.project_name}})
 
 {{cookiecutter.project_name}} calculates the value of a sample.
 
